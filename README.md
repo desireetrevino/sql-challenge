@@ -1,7 +1,7 @@
 # sql-challenge
 ## Module 9 SQL Challenge for UPenn's Data Science Bootcamp
 
-Starter files inside EmployeeSQL folder
+> Starter files inside EmployeeSQL folder
 
 ### Data Modeling 
 - Entity Relationship Diagram: employees-ERD.png
